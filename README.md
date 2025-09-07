@@ -57,4 +57,11 @@ Using sensors to detect the type of waste, the system activates servo motors to 
 
 ---
 
-## 📂 Repository Structure  
+## 🚀 Future Improvements  
+- Add an **LCD/OLED display** to show detected waste type.  
+- Integrate **IoT (ESP8266/ESP32)** for real-time monitoring of bin fill levels.  
+- Enable **automatic compaction** of waste.  
+- Add **separate bins** for recyclable and hazardous waste.  
+
+---
+
