@@ -1,5 +1,11 @@
 # ♻️ Smart Waste Segregation System (Biodegradable & Non-Biodegradable)
 
+## 📌 Project Status
+**Status:** Arduino prototype.  
+This repository contains a working project concept and Arduino sketch for a sensor-based waste sorting model.
+
+---
+
 ## 📖 Project Overview  
 This Arduino-based project is a **smart waste segregation system** that automatically classifies waste into **biodegradable** and **non-biodegradable** categories.  
 Using sensors to detect the type of waste, the system activates servo motors to open the appropriate bin lid, making waste disposal more efficient and eco-friendly.  
